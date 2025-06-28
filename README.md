@@ -10,7 +10,7 @@
 
 ## 📄 Papers
 
-### 💻 Personalize Learning
+### 💻 Personalized Learning
 
 ### 🧠 Congnitive Diagnosis
 - **[2025-06-12] SEED: Planting a SEED of Vision in Large Language Model**  
