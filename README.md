@@ -22,6 +22,9 @@
   - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://github.com/ECNU-ILOG/PCAT/blob/main/Paper/PCAT_KDD25_CR.pdf) [![Static Badge](https://img.shields.io/badge/PCAT-black?logo=github)](https://github.com/ECNU-ILOG/PCAT)
 
 ### 🧠 Congnitive Diagnosis
+- **[1952] A Theory of Test Scores. Psychometric Monographs**
+- **[2008] An Empirically Based Method of Q-matrix Validation for the DINA Model: Development and applications**
+- **[2009] Multidimensional Item Response Theory Models**
 - **[2020] Neural Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/AAAI2020-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/6080) [![Static Badge](https://img.shields.io/badge/NCDM-black?logo=github)](https://github.com/bigdata-ustc/Neural_Cognitive_Diagnosis-NeuralCD)
   - *Pioneering neural methods to mining proficiency levels*
@@ -51,6 +54,8 @@
   - *State-of-the-art graph-based methos with high efficiency*
 - **[2024] Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3672002) [![Static Badge](https://img.shields.io/badge/HyperCDM-black?logo=github)](https://github.com/ECNU-ILOG/HyperCDM)
+- **[2025] Foundation model enhanced derivative-free cognitive diagnosis**
+    - [![Static Badge](https://img.shields.io/badge/FCS-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40029-1)
 - **[2025] Knowledge Is Power: Harnessing Large Language Models for Enhanced Cognitive Diagnosis**
     - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/32105)
 - **[2025] AD4CD: Causal-Guided Anomaly Detection for Enhancing Cognitive Diagnosis**
