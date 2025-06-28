@@ -20,6 +20,7 @@
   - *Pioneering neural methods to mining proficiency levels*
 - **[2021] RCD: Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/SIGIR2021-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3404835.3462932) [![Static Badge](https://img.shields.io/badge/RCD-black?logo=github)](https://github.com/bigdata-ustc/RCD)
+  - *First work incoporating graph neural networks*
 - **[2022] HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework**
   - [![Static Badge](https://img.shields.io/badge/KDD2022-red?logo=arxiv)](https://dl.acm.org/doi/abs/10.1145/3534678.3539486) [![Static Badge](https://img.shields.io/badge/HierCDF-black?logo=github)](https://github.com/CSLiJT/HCD-code)
 - **[2022] NeuralCD: A General Framework for Cognitive Diagnosis**
@@ -36,8 +37,11 @@
 - **[2024] Symbolic Cognitive Diagnosis via Hybrid Optimization for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/AAAI2024-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/29413) [![Static Badge](https://img.shields.io/badge/SymbolCD-black?logo=github)](https://github.com/ECNU-ILOG/SymbolicCDM)
   - *First model incoporating symbolic learning*
+- **[2024] Inductive Cognitive Diagnosis for Fast Student Learning in Web-Based Online Intelligent Education Systems**
+    - [![Static Badge](https://img.shields.io/badge/WWW2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3589334.3645589) [![Static Badge](https://img.shields.io/badge/ICDM-black?logo=github)](https://github.com/ECNU-ILOG/ICDM)
 - **[2024] ORCDF: An Oversmoothing-Resistant Cognitive Diagnosis Framework for Student Learning in Online Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3671988) [![Static Badge](https://img.shields.io/badge/ORCDF-black?logo=github)](https://github.com/ECNU-ILOG/ORCDF)
+  - *State-of-the-art graph-based methos with high efficiency*
 - **[2024] Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3672002) [![Static Badge](https://img.shields.io/badge/HyperCDM-black?logo=github)](https://github.com/ECNU-ILOG/HyperCDM)
 - **[2025] Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis**
@@ -48,7 +52,8 @@
     - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709264)
 
 ### 🗺️ Knowledge Tracing
-
+- **[2025] Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**
+    - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709172)
 
 
 ---
