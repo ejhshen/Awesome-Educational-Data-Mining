@@ -14,7 +14,11 @@
 ## 📄 Papers
 
 ### 💻 Personalized Learning
-- **[2025]Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization**
+- **[2025] Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**
+    - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/34565) [![Static Badge](https://img.shields.io/badge/Agent4Edu-black?logo=github)](https://github.com/bigdata-ustc/Agent4Edu) 
+- **[2025] Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing**
+  - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709317)
+- **[2025] Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization**
   - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://github.com/ECNU-ILOG/PCAT/blob/main/Paper/PCAT_KDD25_CR.pdf) [![Static Badge](https://img.shields.io/badge/PCAT-black?logo=github)](https://github.com/ECNU-ILOG/PCAT)
 
 ### 🧠 Congnitive Diagnosis
@@ -47,6 +51,12 @@
   - *State-of-the-art graph-based methos with high efficiency*
 - **[2024] Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3672002) [![Static Badge](https://img.shields.io/badge/HyperCDM-black?logo=github)](https://github.com/ECNU-ILOG/HyperCDM)
+- **[2025] Knowledge Is Power: Harnessing Large Language Models for Enhanced Cognitive Diagnosis**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/32105)
+- **[2025] AD4CD: Causal-Guided Anomaly Detection for Enhancing Cognitive Diagnosis**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/32105)
+- **[2025] Multi-Perspective Consolidation Enhanced Cognitive Diagnosis via Conditional Diffusion Model**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/33344)
 - **[2025] Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis**
   - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709281) [![Static Badge](https://img.shields.io/badge/LRCD-black?logo=github)](https://github.com/ECNU-ILOG/LRCD) 
 - **[2025] Revisiting Cognition in Neural Cognitive Diagnosis**
