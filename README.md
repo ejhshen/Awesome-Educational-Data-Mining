@@ -36,6 +36,7 @@
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3671988) [![Static Badge](https://img.shields.io/badge/ORCDF-black?logo=github)](https://github.com/ECNU-ILOG/ORCDF)
 - **[2024] Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3672002) [![Static Badge](https://img.shields.io/badge/HyperCDM-black?logo=github)](https://github.com/ECNU-ILOG/HyperCDM)
+- **
 
 ### 🗺️ Knowledge Tracing
 
