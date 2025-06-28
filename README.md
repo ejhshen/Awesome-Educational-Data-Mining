@@ -26,3 +26,9 @@
 ---
 
 ## 🔧 Tools
+
+
+---
+
+*Contributions welcome! Add new papers via pull requests or email me directly.*  
+[⬆ Back to Top](#top)
