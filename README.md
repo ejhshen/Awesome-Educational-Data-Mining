@@ -8,7 +8,7 @@
 
 ---
 
-## 🌏 Reviews
+## 🌏 Survey
 - **[2021] Towards a New Generation of Cognitive Diagnosis**
     - [![Static Badge](https://img.shields.io/badge/IJCAI2021-red?logo=arxiv)](https://www.ijcai.org/proceedings/2021/703)
 - **[2022] New Development of Cognitive Diagnosis Models**
