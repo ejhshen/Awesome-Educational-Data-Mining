@@ -13,6 +13,8 @@
     - [![Static Badge](https://img.shields.io/badge/IJCAI2021-red?logo=arxiv)](https://www.ijcai.org/proceedings/2021/703)
 - **[2022] New Development of Cognitive Diagnosis Models**
     - [![Static Badge](https://img.shields.io/badge/FCS-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-1128-3)
+- **[2023] Knowledge Tracing: A Survey**
+    - [![Static Badge](https://img.shields.io/badge/ACM-red?logo=arxiv)](https://dl.acm.org/doi/full/10.1145/3569576)
 - **[2024] A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions**
     - [![Static Badge](https://img.shields.io/badge/2407.05458-red?logo=arxiv)](https://arxiv.org/abs/2407.05458)
 
