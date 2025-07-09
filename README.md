@@ -21,8 +21,10 @@
 ## 📄 Papers
 
 ### 💻 Personalized Learning
+- **[2025] Explicit and Implicit Examinee-Question Relation Exploiting for Efficient Computerized Adaptive Testing**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://doi.org/10.1609/aaai.v39i12.33383)
 - **[2025] Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**
-    - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/34565) [![Static Badge](https://img.shields.io/badge/Agent4Edu-black?logo=github)](https://github.com/bigdata-ustc/Agent4Edu) 
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/34565) [![Static Badge](https://img.shields.io/badge/Agent4Edu-black?logo=github)](https://github.com/bigdata-ustc/Agent4Edu) 
 - **[2025] Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing**
   - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709317)
 - **[2025] Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization**
@@ -61,6 +63,12 @@
   - *State-of-the-art graph-based methos with high efficiency*
 - **[2024] Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems**
   - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3672002) [![Static Badge](https://img.shields.io/badge/HyperCDM-black?logo=github)](https://github.com/ECNU-ILOG/HyperCDM)
+- **[2024] DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc//paper_files/paper/2024/hash/a69d7f3a1340d55c720e572742439eaf-Abstract-Conference.html) [![Static Badge](https://img.shields.io/badge/DisenGCD-black?logo=github)](https://github.com/BIMK/Intelligent-Education/tree/main/DisenGCD)
+- **[2024] Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc//paper_files/paper/2024/hash/5564f3974ad0e49778dfdcee8e5dc385-Abstract-Conference.html) [![Static Badge](https://img.shields.io/badge/CMCD-black?logo=github)](https://github.com/Mercidaiha/CMCD)
+- **[2024] Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc//paper_files/paper/2024/hash/013f9cd52b38e3e53475605d2b8e7c23-Abstract-Conference.html) [![Static Badge](https://img.shields.io/badge/Coral-black?logo=github)](https://github.com/bigdata-ustc/Coral)
 - **[2025] Foundation model enhanced derivative-free cognitive diagnosis**
     - [![Static Badge](https://img.shields.io/badge/FCS-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40029-1)
 - **[2025] Knowledge Is Power: Harnessing Large Language Models for Enhanced Cognitive Diagnosis**
@@ -77,6 +85,10 @@
     - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709264)
 
 ### 🗺️ Knowledge Tracing
+- **[2025] Uncertainty-aware Knowledge Tracing**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://doi.org/10.1609/aaai.v39i27.35007)
+- **[2025] Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/33561)
 - **[2025] Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**
     - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709172)
 
@@ -85,7 +97,8 @@
 
 ## 🔧 Tools
 - Edudata: Datasets in Education and convenient interface for downloading and preprocessing dataset in education [![Static Badge](https://img.shields.io/badge/EduData-black?logo=github)](https://github.com/bigdata-ustc/EduData) 
-- EduCDM: The model zoo of cognitive diagnosis models [![Static Badge](https://img.shields.io/badge/EduCDM-black?logo=github)](https://github.com/bigdata-ustc/EduCDM) 
+- EduCDM: The model zoo of cognitive diagnosis models [![Static Badge](https://img.shields.io/badge/EduCDM-black?logo=github)](https://github.com/bigdata-ustc/EduCDM)
+- EduStudio: Towards a unified library for student cognitive modeling [![Static Badge](https://img.shields.io/badge/EduStudio-black?logo=github)](https://github.com/HFUT-LEC/EduStudio)
 
 ---
 
