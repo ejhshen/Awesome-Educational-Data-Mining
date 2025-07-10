@@ -105,6 +105,8 @@
     - [![Static Badge](https://img.shields.io/badge/KDD2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3690624.3709264)
 
 ### 🗺️ Knowledge Tracing
+- **[2015] Deep Knowledge Tracing**
+    - [![Static Badge](https://img.shields.io/badge/1506.05908-red?logo=arxiv)](https://arxiv.org/abs/1506.05908)
 - **[2024] Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing**
     - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3671853) [![Static Badge](https://img.shields.io/badge/GRKT-black?logo=github)](https://github.com/JJCui96/GRKT)
 - **[2024] DyGKT: Dynamic Graph Learning for Knowledge Tracing**
