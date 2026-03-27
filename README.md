@@ -4,7 +4,7 @@
 
 *Curated papers on educational dataming including personalized learning, cognitive diagnosis, and knowledge tracing from my regular reading.*
 
-📬 **Have a new paper?** Reach out to me at: **ejhshen@outlook.com**.  
+📬 **Have a new paper?** Reach out to me at: **shen.junhao@outlook.com**.  
 
 ---
 
