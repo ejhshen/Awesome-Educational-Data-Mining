@@ -23,6 +23,14 @@
     - [![Static Badge](https://img.shields.io/badge/ApplIntell2024-red?logo=arxiv)](https://openreview.net/forum?id=yTIX9qSsVC)
 - **[2024] Survey of Computerized Adaptive Testing: A Machine Learning Perspective**
     - [![Static Badge](https://img.shields.io/badge/2404.00712-red?logo=arxiv)](https://arxiv.org/abs/2404.00712)
+- **[2024] Large Language Models for Education: A Survey and Outlook**
+    - [![Static Badge](https://img.shields.io/badge/2403.18105-red?logo=arxiv)](https://arxiv.org/abs/2403.18105)
+- **[2025] A systematic review of AI-driven intelligent tutoring systems (ITS) in K-12 education**
+    - [![Static Badge](https://img.shields.io/badge/npjSciLearn2025-red?logo=arxiv)](https://www.nature.com/articles/s41539-025-00320-7)
+- **[2025] Simulation of teaching behaviours in intelligent tutoring systems: a review using large language models**
+    - [![Static Badge](https://img.shields.io/badge/AIReview2025-red?logo=arxiv)](https://link.springer.com/article/10.1007/s10462-025-11464-8)
+- **[2025] Knowledge graph and large language model integration with focus on educational applications: A survey**
+    - [![Static Badge](https://img.shields.io/badge/NeuralNet2025-red?logo=arxiv)](https://www.sciencedirect.com/science/article/pii/S0893608025004370)
 - **[2026] Personalized Learning Path Recommendation Based on Knowledge Graphs: A Survey**
     - [![Static Badge](https://img.shields.io/badge/Electronics2026-red?logo=arxiv)](https://doi.org/10.3390/electronics15010238)
 
@@ -41,6 +49,8 @@
 ### Tutor Agents
 - **[2023] CLASS: A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-emnlp.130/)
+- **[2023] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**
+    - [![Static Badge](https://img.shields.io/badge/2308.02773-red?logo=arxiv)](https://arxiv.org/abs/2308.02773) [![Static Badge](https://img.shields.io/badge/EduChat-black?logo=github)](https://github.com/ECNU-ICALK/EduChat)
 - **[2025] TestAgent: An Adaptive and Intelligent Expert for Human Assessment**
     - [![Static Badge](https://img.shields.io/badge/ICLR2025-red?logo=arxiv)](https://openreview.net/forum?id=lXwhR7uci1)
 - **[2025] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors**
@@ -67,6 +77,8 @@
     - [![Static Badge](https://img.shields.io/badge/NAACL2025-red?logo=arxiv)](https://aclanthology.org/2025.naacl-long.520/) [![Static Badge](https://img.shields.io/badge/SimClass-black?logo=github)](https://github.com/THU-MAIC/SimClass)
 - **[2025] Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**
     - [![Static Badge](https://img.shields.io/badge/CHI2025-red?logo=arxiv)](https://doi.org/10.1145/3706598.3713853)
+- **[2024] Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.emnlp-main.554/)
 
 ## Recommendation and Personalization
 
@@ -359,6 +371,8 @@
     - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.15/)
 - **[2024] How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom’s Skill Levels for Indian High School Social Science Curriculum?**
     - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.1/)
+- **[2025] Investigating Methods for Mapping Learning Objectives to Bloom's Revised Taxonomy in Course Descriptions for Higher Education**
+    - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.32/)
 
 ## Datasets and Toolkits
 
@@ -377,6 +391,8 @@
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6d5e00006b65fcc55c3c1798da821663-Abstract-Datasets_and_Benchmarks_Track.html)
 - **[2025] MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.11/)
+- **[2023] The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues**
+    - [![Static Badge](https://img.shields.io/badge/BEA2023-red?logo=arxiv)](https://aclanthology.org/2023.bea-1.64/)
 
 ### Libraries and Repositories
 - EduData: Datasets in Education and convenient interface for downloading and preprocessing dataset in education [![Static Badge](https://img.shields.io/badge/EduData-black?logo=github)](https://github.com/bigdata-ustc/EduData)
