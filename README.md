@@ -315,6 +315,8 @@
     - [![Static Badge](https://img.shields.io/badge/WNUT2018-red?logo=arxiv)](https://aclanthology.org/W18-6117/)
 - **[2021] Using Clickstream Data Mining Techniques to Understand and Support First-Generation College Students in an Online Chemistry Course**
     - [![Static Badge](https://img.shields.io/badge/LAK2021-red?logo=arxiv)](https://doi.org/10.1145/3448139.3448169)
+- **[2025] IntrEx: A Dataset for Modeling Engagement in Educational Conversations**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.findings-emnlp.1191/)
 
 ## Question Generation and Content Creation
 
@@ -351,7 +353,12 @@
     - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.43/)
 
 ### Knowledge Tagging and Alignment
-- More papers will be added.
+- **[2018] Second Language Acquisition Modeling**
+    - [![Static Badge](https://img.shields.io/badge/BEA2018-red?logo=arxiv)](https://aclanthology.org/W18-0506/)
+- **[2024] Using Program Repair as a Proxy for Language Models' Feedback Ability in Programming Education**
+    - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.15/)
+- **[2024] How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom’s Skill Levels for Indian High School Social Science Curriculum?**
+    - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.1/)
 
 ## Datasets and Toolkits
 
