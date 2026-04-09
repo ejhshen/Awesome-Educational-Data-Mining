@@ -115,10 +115,18 @@
     - [![Static Badge](https://img.shields.io/badge/WWW2025-red?logo=arxiv)](https://doi.org/10.1145/3696410.3714787) [![Static Badge](https://img.shields.io/badge/FairWISA-black?logo=github)](https://github.com/HeFei-X/FairWISA)
 
 ### Personalized Teaching Strategy
+- **[2017] Iterative Machine Teaching**
+    - [![Static Badge](https://img.shields.io/badge/ICML2017-red?logo=arxiv)](https://proceedings.mlr.press/v70/liu17b.html)
+- **[2020] Teaching with Limited Information on the Learner's Behaviour**
+    - [![Static Badge](https://img.shields.io/badge/ICML2020-red?logo=arxiv)](https://proceedings.mlr.press/v119/cicalese20a.html)
+- **[2019] Machine Teaching of Active Sequential Learners**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2019-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2019/hash/b98a3773ecf715751d3cf0fb6dcba424-Abstract.html)
 - **[2020] Automated Personalized Feedback Improves Learning Gains in An Intelligent Tutoring System**
     - [![Static Badge](https://img.shields.io/badge/AIED2020-red?logo=arxiv)](https://doi.org/10.1007/978-3-030-52240-7_26)
 - **[2024] SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://openreview.net/forum?id=qkoZgJhxsA)
+- **[2023] Can Language Models Teach? Teacher Explanations Improve Student Performance via Personalization**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2023-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6afe9a5d1e1068796d32613ddca1ab7-Abstract-Conference.html)
 - **[2024] Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes**
     - [![Static Badge](https://img.shields.io/badge/NAACL2024-red?logo=arxiv)](https://aclanthology.org/2024.naacl-long.120/)
 - **[2024] Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**
@@ -383,12 +391,16 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-emnlp.372/)
 - **[2023] Can you Summarize my learnings? Towards Perspective-based Educational Dialogue Summarization**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-emnlp.208/)
+- **[2023] XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2023-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67fc628f17c2ad53621fb961c6bafcaf-Abstract-Datasets_and_Benchmarks.html)
 - **[2025] FEAT: A Preference Feedback Dataset through a Cost-Effective Auto-Generation and Labeling Framework for English AI Tutoring**
     - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.acl-short.45/)
 
 ### Benchmarks
 - **[2024] Benchmarking Generative Models on Computational Thinking Tests in Elementary Visual Programming**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6d5e00006b65fcc55c3c1798da821663-Abstract-Datasets_and_Benchmarks_Track.html)
+- **[2024] Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/34cc2ded6daba59357134c0b9fb06bfe-Abstract-Datasets_and_Benchmarks_Track.html)
 - **[2025] MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.11/)
 - **[2023] The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues**
