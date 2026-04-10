@@ -12,9 +12,9 @@
 - **[2021] Towards a New Generation of Cognitive Diagnosis**
     - [![Static Badge](https://img.shields.io/badge/IJCAI2021-red?logo=arxiv)](https://www.ijcai.org/proceedings/2021/703)
 - **[2022] New Development of Cognitive Diagnosis Models**
-    - [![Static Badge](https://img.shields.io/badge/FCS-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-1128-3)
+    - [![Static Badge](https://img.shields.io/badge/FCS2022-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-1128-3)
 - **[2023] Knowledge Tracing: A Survey**
-    - [![Static Badge](https://img.shields.io/badge/ACM-red?logo=arxiv)](https://dl.acm.org/doi/full/10.1145/3569576)
+    - [![Static Badge](https://img.shields.io/badge/CSUR2023-red?logo=arxiv)](https://dl.acm.org/doi/full/10.1145/3569576)
 - **[2023] Survey of Personalized Learning Software Systems: A Taxonomy of Environments, Learning Content, and User Models**
     - [![Static Badge](https://img.shields.io/badge/EducSci2023-red?logo=arxiv)](https://doi.org/10.3390/educsci13070741)
 - **[2024] A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions**
@@ -41,10 +41,16 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.emnlp-main.37/)
 - **[2024] Student Data Paradox and Curious Case of Single Student-Tutor Model: Regressive Side Effects of Training LLMs for Personalized Learning**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-emnlp.912/)
+- **[2024] Large Language Models for In-Context Student Modeling: Synthesizing Student's Behavior in Visual Programming**
+    - [![Static Badge](https://img.shields.io/badge/EDM2024-red?logo=arxiv)](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.31/index.html)
 
 ### Synthetic Response Generation
+- **[2024] Book2Dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots**
+    - [![Static Badge](https://img.shields.io/badge/ACL2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-acl.578/)
 - **[2025] Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**
     - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://ojs.aaai.org/index.php/AAAI/article/view/34565) [![Static Badge](https://img.shields.io/badge/Agent4Edu-black?logo=github)](https://github.com/bigdata-ustc/Agent4Edu)
+- **[2025] Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.findings-emnlp.161/)
 
 ### Tutor Agents
 - **[2023] CLASS: A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles**
@@ -82,11 +88,13 @@
 
 ## Recommendation and Personalization
 
-### Exercise Recommendation
+### Exercise, Course, and Resource Recommendation
 - **[2014] Constrained Question Recommendation in MOOCs via Submodularity**
     - [![Static Badge](https://img.shields.io/badge/CIKM2014-red?logo=arxiv)](https://doi.org/10.1145/2661829.2662089)
 - **[2025] Knowledge Starts with Practice: Knowledge-Aware Exercise Generative Recommendation with Adaptive Multi-Agent Cooperation**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2025-red?logo=arxiv)](https://openreview.net/forum?id=vqLoLqUUNB)
+- **[2019] Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**
+    - [![Static Badge](https://img.shields.io/badge/AAAI2019-red?logo=arxiv)](https://doi.org/10.1609/aaai.v33i01.3301435)
 
 ### Learning Path Recommendation
 - **[2023] A Personalized Learning Path Recommendation Method for Learning Objects with Diverse Coverage Levels**
@@ -94,13 +102,9 @@
 - **[2024] Privileged Knowledge State Distillation for Reinforcement Learning-based Educational Path Recommendation**
     - [![Static Badge](https://img.shields.io/badge/KDD2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3637528.3671872)
 
-### Course and Resource Recommendation
-- **[2019] Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**
-    - [![Static Badge](https://img.shields.io/badge/AAAI2019-red?logo=arxiv)](https://doi.org/10.1609/aaai.v33i01.3301435)
-
 ### Adaptive Learning Systems
 - **[2020] A Personalized Learning System for Parallel Intelligent Education**
-    - [![Static Badge](https://img.shields.io/badge/IEEE-red?logo=arxiv)](https://openreview.net/forum?id=eFar1BW7Gt)
+    - [![Static Badge](https://img.shields.io/badge/TCSS2020-red?logo=arxiv)](https://doi.org/10.1109/TCSS.2020.2965198)
 - **[2023] PTADisc: A Cross-Course Dataset Supporting Personalized Learning in Cold-Start Scenarios**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2023-red?logo=arxiv)](https://openreview.net/forum?id=EIydMrHBHP&noteId=o2OwIG4tev)
 - **[2023] FairLISA: Fair User Modeling with Limited Sensitive Attributes Information**
@@ -155,7 +159,7 @@
 - **[2022] HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework**
     - [![Static Badge](https://img.shields.io/badge/KDD2022-red?logo=arxiv)](https://dl.acm.org/doi/abs/10.1145/3534678.3539486) [![Static Badge](https://img.shields.io/badge/HierCDF-black?logo=github)](https://github.com/CSLiJT/HCD-code)
 - **[2022] NeuralCD: A General Framework for Cognitive Diagnosis**
-    - [![Static Badge](https://img.shields.io/badge/TKDE-red?logo=arxiv)](https://ieeexplore.ieee.org/document/9865139/)
+    - [![Static Badge](https://img.shields.io/badge/TKDE2022-red?logo=arxiv)](https://ieeexplore.ieee.org/document/9865139/)
     - *State-of-the-art KaNCD model proposed in this paper*
 - **[2022] Knowledge-Sensed Cognitive Diagnosis for Intelligent Education Platforms**
     - [![Static Badge](https://img.shields.io/badge/CIKM2022-red?logo=arxiv)](https://dl.acm.org/doi/abs/10.1145/3511808.3557372)
@@ -212,7 +216,7 @@
 - **[2024] Unified Uncertainty Estimation for Cognitive Diagnosis Models**
     - [![Static Badge](https://img.shields.io/badge/WWW2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3589334.3645488)
 - **[2025] Foundation model enhanced derivative-free cognitive diagnosis**
-    - [![Static Badge](https://img.shields.io/badge/FCS-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40029-1)
+    - [![Static Badge](https://img.shields.io/badge/FCS2025-red?logo=arxiv)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40029-1)
 - **[2025] Unleashing the Potential of Un-Interacted Exercises for Boosting Cognitive Diagnosis**
     - [![Static Badge](https://img.shields.io/badge/InfSci2025-red?logo=arxiv)](https://www.sciencedirect.com/science/article/pii/S0020025525009600)
 - **[2025] A Style-Aware Polytomous Diagnostic Model for Individual Traits**
@@ -327,8 +331,14 @@
     - [![Static Badge](https://img.shields.io/badge/IJCAI2025-red?logo=arxiv)](https://www.ijcai.org/proceedings/2025/648)
 
 ### Open-ended Response Understanding
+- **[2020] Context-based Automated Scoring of Complex Mathematical Responses**
+    - [![Static Badge](https://img.shields.io/badge/BEA2020-red?logo=arxiv)](https://aclanthology.org/2020.bea-1.19/)
+- **[2022] Open-ended Knowledge Tracing for Computer Science Education**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2022-red?logo=arxiv)](https://aclanthology.org/2022.emnlp-main.254/)
 - **[2025] MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection**
     - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.acl-industry.7/)
+- **[2025] Unsupervised Automatic Short Answer Grading and Essay Scoring: A Weakly Supervised Explainable Approach**
+    - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.4/)
 
 ### Affective and Behavioral Modeling
 - **[2018] Modeling Student Response Times: Towards Efficient One-on-one Tutoring Dialogues**
@@ -369,6 +379,10 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.15/)
 
 ### Difficulty Estimation and Calibration
+- **[2024] Findings from the First Shared Task on Automated Prediction of Difficulty and Response Time for Multiple-Choice Questions**
+    - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.39/)
+- **[2024] Item Difficulty and Response Time Prediction with Large Language Models: An Empirical Analysis of USMLE Items**
+    - [![Static Badge](https://img.shields.io/badge/BEA2024-red?logo=arxiv)](https://aclanthology.org/2024.bea-1.44/)
 - **[2025] Estimation of Text Difficulty in the Context of Language Learning**
     - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.43/)
 
@@ -385,8 +399,14 @@
 ## Datasets and Toolkits
 
 ### Datasets
+- **[2015] Math2015: Math1, Math2, and FrcSub Cognitive Diagnosis Dataset**
+    - [![Static Badge](https://img.shields.io/badge/EduData-black?logo=readthedocs)](https://edudata.readthedocs.io/en/latest/index.html) [![Static Badge](https://img.shields.io/badge/Math2015Data-black?logo=github)](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar)
+- **[2009-2017] ASSISTments Series: 2009-2010, 2012-2013, 2015, and 2017**
+    - [![Static Badge](https://img.shields.io/badge/ASSISTmentsData-black?logo=google)](https://sites.google.com/site/assistmentsdata/) [![Static Badge](https://img.shields.io/badge/EduData-black?logo=readthedocs)](https://edudata.readthedocs.io/en/latest/index.html)
 - **[2020] CIMA: A Large Open Access Dialogue Dataset for Tutoring**
     - [![Static Badge](https://img.shields.io/badge/BEA2020-red?logo=arxiv)](https://aclanthology.org/2020.bea-1.5/)
+- **[2020] Eedi Dataset: Diagnostic Questions from the NeurIPS 2020 Education Challenge**
+    - [![Static Badge](https://img.shields.io/badge/EediData-black?logo=readthedocs)](https://www.eedischool.com/projects/neurips-education-challenge) [![Static Badge](https://img.shields.io/badge/2007.12061-red?logo=arxiv)](https://arxiv.org/abs/2007.12061)
 - **[2023] MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-emnlp.372/)
 - **[2023] Can you Summarize my learnings? Towards Perspective-based Educational Dialogue Summarization**
