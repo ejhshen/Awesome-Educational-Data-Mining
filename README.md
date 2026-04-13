@@ -131,6 +131,10 @@
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://openreview.net/forum?id=qkoZgJhxsA)
 - **[2023] Can Language Models Teach? Teacher Explanations Improve Student Performance via Personalization**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2023-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6afe9a5d1e1068796d32613ddca1ab7-Abstract-Conference.html)
+- **[2025] Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation**
+    - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.63/)
+- **[2025] Cultivating Helpful, Personalized, and Creative AI Tutors: A Framework for Pedagogical Alignment using Reinforcement Learning**
+    - [![Static Badge](https://img.shields.io/badge/2507.20335-red?logo=arxiv)](https://arxiv.org/abs/2507.20335)
 - **[2024] Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes**
     - [![Static Badge](https://img.shields.io/badge/NAACL2024-red?logo=arxiv)](https://aclanthology.org/2024.naacl-long.120/)
 - **[2024] Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**
@@ -377,6 +381,8 @@
     - [![Static Badge](https://img.shields.io/badge/BEA2023-red?logo=arxiv)](https://aclanthology.org/2023.bea-1.9/)
 - **[2025] From Problem-Solving to Teaching Problem-Solving: Aligning Math Reasoning Models for Pedagogical Value**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.15/)
+- **[2026] EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content**
+    - [![Static Badge](https://img.shields.io/badge/2604.05005-red?logo=arxiv)](https://arxiv.org/abs/2604.05005)
 
 ### Difficulty Estimation and Calibration
 - **[2024] Findings from the First Shared Task on Automated Prediction of Difficulty and Response Time for Multiple-Choice Questions**
@@ -427,6 +433,12 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.11/)
 - **[2023] The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues**
     - [![Static Badge](https://img.shields.io/badge/BEA2023-red?logo=arxiv)](https://aclanthology.org/2023.bea-1.64/)
+- **[2025] ELMES: An Automated Framework for Evaluating Large Language Models in Educational Scenarios**
+    - [![Static Badge](https://img.shields.io/badge/2507.22947-red?logo=arxiv)](https://arxiv.org/abs/2507.22947) [![Static Badge](https://img.shields.io/badge/ELMES-black?logo=github)](https://github.com/sii-research/elmes)
+- **[2025] Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants' Question-Answering in Asynchronous Learning Environments**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.findings-emnlp.518/)
+- **[2026] SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems**
+    - [![Static Badge](https://img.shields.io/badge/2603.17373-red?logo=arxiv)](https://arxiv.org/abs/2603.17373)
 
 ### Libraries and Repositories
 - EduData: Datasets in Education and convenient interface for downloading and preprocessing dataset in education [![Static Badge](https://img.shields.io/badge/EduData-black?logo=github)](https://github.com/bigdata-ustc/EduData)
