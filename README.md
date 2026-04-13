@@ -405,8 +405,6 @@
 ## Datasets and Toolkits
 
 ### Datasets
-- **mind-data: Raw Cognitive Diagnosis Datasets for mind-toolkit**
-    - [![Static Badge](https://img.shields.io/badge/HuggingFaceDataset-black?logo=huggingface)](https://huggingface.co/datasets/shenjunhao/mind-data)
 - **[2015] Math2015: Math1, Math2, and FrcSub Cognitive Diagnosis Dataset**
     - [![Static Badge](https://img.shields.io/badge/EduData-black?logo=readthedocs)](https://edudata.readthedocs.io/en/latest/index.html) [![Static Badge](https://img.shields.io/badge/Math2015Data-black?logo=github)](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar)
 - **[2009-2017] ASSISTments Series: 2009-2010, 2012-2013, 2015, and 2017**
@@ -441,6 +439,7 @@
     - [![Static Badge](https://img.shields.io/badge/2603.17373-red?logo=arxiv)](https://arxiv.org/abs/2603.17373)
 
 ### Libraries and Repositories
+- mind-data: Raw Cognitive Diagnosis Datasets for mind-toolkit [![Static Badge](https://img.shields.io/badge/HuggingFaceDataset-black?logo=huggingface)](https://huggingface.co/datasets/shenjunhao/mind-data)
 - EduData: Datasets in Education and convenient interface for downloading and preprocessing dataset in education [![Static Badge](https://img.shields.io/badge/EduData-black?logo=github)](https://github.com/bigdata-ustc/EduData)
 - EduCDM: The model zoo of cognitive diagnosis models [![Static Badge](https://img.shields.io/badge/EduCDM-black?logo=github)](https://github.com/bigdata-ustc/EduCDM)
 - EduStudio: Towards a unified library for student cognitive modeling [![Static Badge](https://img.shields.io/badge/EduStudio-black?logo=github)](https://github.com/HFUT-LEC/EduStudio)
