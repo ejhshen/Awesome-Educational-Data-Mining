@@ -444,6 +444,7 @@
 - EduCDM: The model zoo of cognitive diagnosis models [![Static Badge](https://img.shields.io/badge/EduCDM-black?logo=github)](https://github.com/bigdata-ustc/EduCDM)
 - EduStudio: Towards a unified library for student cognitive modeling [![Static Badge](https://img.shields.io/badge/EduStudio-black?logo=github)](https://github.com/HFUT-LEC/EduStudio)
 - PyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models [![Static Badge](https://img.shields.io/badge/PyKT-black?logo=github)](https://github.com/pykt-team/pykt-toolkit)
+- mind-toolkit: A toolkit for cognitive diagnosis and student assessment research [![Static Badge](https://img.shields.io/badge/mind--toolkit-black?logo=github)](https://github.com/ejhshen/mind-toolkit)
 
 ---
 
