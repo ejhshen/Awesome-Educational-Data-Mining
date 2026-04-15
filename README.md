@@ -295,6 +295,12 @@
     - [![Static Badge](https://img.shields.io/badge/ICDE2024-red?logo=arxiv)](https://doi.org/10.1109/ICDE60146.2024.00090)
 - **[2024] HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection**
     - [![Static Badge](https://img.shields.io/badge/WWW2024-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3589334.3645718)
+- **[2025] AAKT: Enhancing Knowledge Tracing With Alternate Autoregressive Modeling**
+    - [![Static Badge](https://img.shields.io/badge/TLT2025-red?logo=arxiv)](https://doi.org/10.1109/TLT.2024.3521898)
+- **[2025] Knowledge Tracing in Programming Education Integrating Students' Questions**
+    - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.acl-long.1343/)
+- **[2025] A Hierarchical Probabilistic Framework for Incremental Knowledge Tracing in Classroom Settings**
+    - [![Static Badge](https://img.shields.io/badge/2506.09393-red?logo=arxiv)](https://arxiv.org/abs/2506.09393)
 - **[2025] Rebalancing Discriminative Responses for Knowledge Tracing**
     - [![Static Badge](https://img.shields.io/badge/TOIS2025-red?logo=arxiv)](https://dl.acm.org/doi/10.1145/3711894)
 - **[2025] Enhancing Knowledge Tracing through Decoupling Cognitive Pattern from Error-Prone Data**
@@ -311,6 +317,8 @@
     - [![Static Badge](https://img.shields.io/badge/AAAI2025-red?logo=arxiv)](https://doi.org/10.1609/aaai.v39i13.33562) [![Static Badge](https://img.shields.io/badge/pyKT-black?logo=github)](https://pykt.org/fluckt)
 - **[2025] Interpretable Knowledge Tracing with Difficulty-Aware Attention and Selective State Space Model**
     - [![Static Badge](https://img.shields.io/badge/SIGIR2025-red?logo=arxiv)](https://doi.org/10.1145/3726302.3730012)
+- **[2026] Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space**
+    - [![Static Badge](https://img.shields.io/badge/2602.22879-red?logo=arxiv)](https://arxiv.org/abs/2602.22879)
 
 ### Computerized Adaptive Testing
 - **[2023] A Bounded Ability Estimation for Computerized Adaptive Testing**
