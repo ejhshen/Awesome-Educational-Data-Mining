@@ -57,8 +57,12 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-emnlp.130/)
 - **[2023] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**
     - [![Static Badge](https://img.shields.io/badge/2308.02773-red?logo=arxiv)](https://arxiv.org/abs/2308.02773) [![Static Badge](https://img.shields.io/badge/EduChat-black?logo=github)](https://github.com/ECNU-ICALK/EduChat)
+- **[2024] Language Models as Science Tutors**
+    - [![Static Badge](https://img.shields.io/badge/ICML2024-red?logo=arxiv)](https://proceedings.mlr.press/v235/chevalier24a.html) [![Static Badge](https://img.shields.io/badge/LM--Science--Tutor-black?logo=github)](https://github.com/princeton-nlp/LM-Science-Tutor)
 - **[2025] TestAgent: An Adaptive and Intelligent Expert for Human Assessment**
     - [![Static Badge](https://img.shields.io/badge/ICLR2025-red?logo=arxiv)](https://openreview.net/forum?id=lXwhR7uci1)
+- **[2025] LeanTutor: A Lean-Verified Tutor for Mathematical Proofs**
+    - [![Static Badge](https://img.shields.io/badge/ICML2025-red?logo=arxiv)](https://openreview.net/forum?id=N6VOzIoKK7)
 - **[2025] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors**
     - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.findings-acl.642/)
 - **[2025] Educators’ Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting**
@@ -137,10 +141,14 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.emnlp-main.478/)
 - **[2024] Let Me Teach You: Pedagogical Foundations of Feedback for Language Models**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.emnlp-main.674/)
+- **[2024] Pedagogical Alignment of Large Language Models**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-emnlp.797/) [![Static Badge](https://img.shields.io/badge/Tutorbot--Spock-black?logo=github)](https://github.com/luffycodes/Tutorbot-Spock)
 - **[2025] Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation**
     - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.63/)
 - **[2025] Cultivating Helpful, Personalized, and Creative AI Tutors: A Framework for Pedagogical Alignment using Reinforcement Learning**
     - [![Static Badge](https://img.shields.io/badge/2507.20335-red?logo=arxiv)](https://arxiv.org/abs/2507.20335)
+- **[2025] Efficient Reinforcement Learning for Optimizing Multi-turn Student Outcomes with LLM Tutors**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2025-red?logo=arxiv)](https://openreview.net/forum?id=CD42kp2k2O)
 - **[2025] On the Effectiveness of Prompt-Moderated LLMs for Math Tutoring at the Tertiary Level**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.findings-emnlp.605/)
 - **[2025] Co-designing Large Language Model Tools for Project-Based Learning with K12 Educators**
@@ -371,6 +379,8 @@
     - [![Static Badge](https://img.shields.io/badge/NAACL2022-red?logo=arxiv)](https://aclanthology.org/2022.findings-naacl.9/)
 - **[2023] Learning by Analogy: Diverse Questions Generation in Math Word Problem**
     - [![Static Badge](https://img.shields.io/badge/ACL2023-red?logo=arxiv)](https://aclanthology.org/2023.findings-acl.705/)
+- **[2024] Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**
+    - [![Static Badge](https://img.shields.io/badge/ACL2024-red?logo=arxiv)](https://aclanthology.org/2024.acl-long.173/)
 - **[2025] MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**
     - [![Static Badge](https://img.shields.io/badge/NAACL2025-red?logo=arxiv)](https://aclanthology.org/2025.naacl-long.538/)
 - **[2025] From Objectives to Questions: A Planning-based Framework for Educational Mathematical Question Generation**
@@ -435,8 +445,22 @@
     - [![Static Badge](https://img.shields.io/badge/BEA2023-red?logo=arxiv)](https://aclanthology.org/2023.bea-1.64/)
 - **[2024] Benchmarking Generative Models on Computational Thinking Tests in Elementary Visual Programming**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6d5e00006b65fcc55c3c1798da821663-Abstract-Datasets_and_Benchmarks_Track.html)
+- **[2024] E-EVAL: A Comprehensive Chinese K-12 Education Evaluation Benchmark for Large Language Models**
+    - [![Static Badge](https://img.shields.io/badge/ACL2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-acl.462/)
 - **[2024] Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2024-red?logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/34cc2ded6daba59357134c0b9fb06bfe-Abstract-Datasets_and_Benchmarks_Track.html)
+- **[2024] StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code**
+    - [![Static Badge](https://img.shields.io/badge/ACL2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-acl.501/) [![Static Badge](https://img.shields.io/badge/StudentEval-black?logo=github)](https://github.com/Wellesley-EASEL-lab/StudentEval)
+- **[2025] EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**
+    - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.acl-long.1576/)
+- **[2025] PEBBLE: A Pedagogical and SRL-Aware Benchmark for Evaluating LLM Tutors**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2025-red?logo=arxiv)](https://openreview.net/forum?id=ffvNvoJVgE)
+- **[2025] Can Large Language Models Be Good Language Teachers?**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.1222/)
+- **[2025] EduAdapt: A Question Answer Benchmark Dataset for Evaluating Grade-Level Adaptability in LLMs**
+    - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.1736/) [![Static Badge](https://img.shields.io/badge/EduAdapt-black?logo=github)](https://github.com/NaumanNaeem/EduAdapt)
+- **[2025] TutorTest: Evaluating Language Model-based Tutoring Policies Using Surrogate Tasks**
+    - [![Static Badge](https://img.shields.io/badge/NeurIPS2025-red?logo=arxiv)](https://openreview.net/forum?id=UoJZv2YfDX)
 - **[2025] MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors**
     - [![Static Badge](https://img.shields.io/badge/EMNLP2025-red?logo=arxiv)](https://aclanthology.org/2025.emnlp-main.11/)
 - **[2025] ELMES: An Automated Framework for Evaluating Large Language Models in Educational Scenarios**
