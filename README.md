@@ -43,6 +43,8 @@
     - [![Static Badge](https://img.shields.io/badge/EMNLP2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-emnlp.912/)
 - **[2024] Large Language Models for In-Context Student Modeling: Synthesizing Student's Behavior in Visual Programming**
     - [![Static Badge](https://img.shields.io/badge/EDM2024-red?logo=arxiv)](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.31/index.html)
+- **[2025] Investigating Pedagogical Teacher and Student LLM Agents: Genetic Adaptation Meets Retrieval Augmented Generation Across Learning Style**
+    - [![Static Badge](https://img.shields.io/badge/2505.19173-red?logo=arxiv)](https://arxiv.org/abs/2505.19173)
 
 ### Synthetic Response Generation
 - **[2024] Book2Dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots**
@@ -69,6 +71,8 @@
     - [![Static Badge](https://img.shields.io/badge/BEA2025-red?logo=arxiv)](https://aclanthology.org/2025.bea-1.28/)
 - **[2025] Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors**
     - [![Static Badge](https://img.shields.io/badge/NAACL2025-red?logo=arxiv)](https://aclanthology.org/2025.naacl-long.57/)
+- **[2026] CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding**
+    - [![Static Badge](https://img.shields.io/badge/2603.18470-red?logo=arxiv)](https://arxiv.org/abs/2603.18470)
 
 ### Dialogue-based Tutoring
 - **[2025] Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs**
@@ -89,6 +93,12 @@
     - [![Static Badge](https://img.shields.io/badge/NAACL2025-red?logo=arxiv)](https://aclanthology.org/2025.naacl-long.520/) [![Static Badge](https://img.shields.io/badge/SimClass-black?logo=github)](https://github.com/THU-MAIC/SimClass)
 - **[2025] Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**
     - [![Static Badge](https://img.shields.io/badge/CHI2025-red?logo=arxiv)](https://doi.org/10.1145/3706598.3713853)
+- **[2025] EduThink4AI: Bridging Educational Critical Thinking and Multi-Agent LLM Systems**
+    - [![Static Badge](https://img.shields.io/badge/2507.15015-red?logo=arxiv)](https://arxiv.org/abs/2507.15015)
+- **[2025] FACET: Teacher-Centred LLM-Based Multi-Agent Systems Towards Personalized Educational Worksheets**
+    - [![Static Badge](https://img.shields.io/badge/2508.11401-red?logo=arxiv)](https://arxiv.org/abs/2508.11401)
+- **[2025] CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System**
+    - [![Static Badge](https://img.shields.io/badge/2512.00331-red?logo=arxiv)](https://arxiv.org/abs/2512.00331)
 
 ## Recommendation and Personalization
 
@@ -453,6 +463,8 @@
     - [![Static Badge](https://img.shields.io/badge/ACL2024-red?logo=arxiv)](https://aclanthology.org/2024.findings-acl.501/) [![Static Badge](https://img.shields.io/badge/StudentEval-black?logo=github)](https://github.com/Wellesley-EASEL-lab/StudentEval)
 - **[2025] EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**
     - [![Static Badge](https://img.shields.io/badge/ACL2025-red?logo=arxiv)](https://aclanthology.org/2025.acl-long.1576/)
+- **[2025] TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**
+    - [![Static Badge](https://img.shields.io/badge/2505.01563-red?logo=arxiv)](https://arxiv.org/abs/2505.01563) [![Static Badge](https://img.shields.io/badge/TutorGym-black?logo=github)](https://github.com/Teachable-AI-Lab/tutor_gym)
 - **[2025] PEBBLE: A Pedagogical and SRL-Aware Benchmark for Evaluating LLM Tutors**
     - [![Static Badge](https://img.shields.io/badge/NeurIPS2025-red?logo=arxiv)](https://openreview.net/forum?id=ffvNvoJVgE)
 - **[2025] Can Large Language Models Be Good Language Teachers?**
